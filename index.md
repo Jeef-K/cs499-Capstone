@@ -1,5 +1,7 @@
 # Code Review
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1019257381?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CS_499 _code_review"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 A code review involves systematically examining code to identify bugs, improve quality, and ensure adherence to coding standards before merging it into the main codebase. It’s vital for computer science professionals as it helps catch defects early, promotes collaboration, and encourages continuous learning. Key best practices include keeping reviews small and focused, giving constructive feedback, using automated tools for basic checks, and involving multiple reviewers for critical code. Code reviews should occur after development but before merging, enabling early issue detection and saving time in the long run.
 
 For my code review video, I chose to use Microsoft Clipchamp, a tool that comes with Windows 11. Although I hadn’t used it before, I found it easy to navigate. To guide my discussion, I created a PowerPoint to outline my talking points. Before recording, I practiced by reviewing the slides and project code to ensure I covered all the key aspects I wanted to discuss.
