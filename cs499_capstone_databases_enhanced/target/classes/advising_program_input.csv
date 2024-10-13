@@ -1,0 +1,9 @@
+MATH201,Discrete Mathematics,3,Mathematics,None
+CSCI300,Introduction to Algorithms,3,Computer Science,CSCI200;MATH201
+CSCI350,Operating Systems,3,Computer Science,CSCI300
+CSCI101,Introduction to Programming in C++,3,Computer Science,CSCI100
+CSCI100,Introduction to Computer Science,3,Computer Science,None
+CSCI301,Advanced Programming in C++,3,Computer Science,CSCI101
+CSCI400,Large Software Development,4,Computer Science,CSCI301;CSCI350
+CSCI200,Data Structures,3,Computer Science,CSCI101
+ENG101,English Retoric,3,English,None
