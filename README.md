@@ -14,4 +14,4 @@ In this repository, you'll find the source code and documentation for my capston
 
 For a comprehensive view of this project, please visit my ePortfolio:
 
-👉 [My ePortfolio](https://username.github.io/)
+👉 [My ePortfolio]([https://username.github.io/](https://jeef-k.github.io/cs499-Capstone/))
