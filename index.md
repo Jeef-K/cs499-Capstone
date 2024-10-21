@@ -1,4 +1,4 @@
-
+# h
 # Professional Self-Assessment
 My name is Jeffrey Karl, and I am a computer science professional with expertise in software development, IT support, and embedded systems. My current focus is on network administration and cyber security, areas in which I am actively building my skills. In my capstone, I worked extensively on improving the quality of my code by focusing on efficiency and clear documentation, both of which are critical to successful long-term project management.
 
