@@ -1,10 +1,17 @@
+# Self-Assessment
+My name is Jeffrey Karl, and I am a computer science professional with expertise in software development, IT support, and embedded systems. My current focus is on network administration and cyber security, areas in which I am actively building my skills. In my capstone, I worked extensively on improving the quality of my code by focusing on efficiency and clear documentation, both of which are critical to successful long-term project management.
+
+The most representative deliverable in my portfolio is an advising program I built that integrates a binary search tree to store and manage course information. This project showcases not only my programming skills but also my ability to handle complex data structures and optimize functionality for real-world applications. Through this work, I demonstrate my problem-solving abilities and attention to detail, key traits I bring to every professional endeavor.
+
+In my Computer Science capstone course, CS 499, I encountered two significant areas of learning that shaped my growth as a professional. The first area was my improvement in code commenting and documentation. Through feedback from peers and instructors, I learned how to create clear, concise, and detailed comments that improve both the functionality and readability of my code. This enhanced my ability to communicate complex technical logic to future developers or team members.
+
+The second major area of growth was my deepened understanding of algorithm efficiency and optimization. As I worked on refining projects for my ePortfolio, I realized the importance of improving time complexity in code. By optimizing my logic, I was able to create more efficient and effective solutions. This gave me insight into the broader industry’s emphasis on not just making things work, but making them work well under constraints.
+
+
+
 # Code Review
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1019257381?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CS_499 _code_review"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-A code review involves systematically examining code to identify bugs, improve quality, and ensure adherence to coding standards before merging it into the main codebase. It’s vital for computer science professionals as it helps catch defects early, promotes collaboration, and encourages continuous learning. Key best practices include keeping reviews small and focused, giving constructive feedback, using automated tools for basic checks, and involving multiple reviewers for critical code. Code reviews should occur after development but before merging, enabling early issue detection and saving time in the long run.
-
-For my code review video, I chose to use Microsoft Clipchamp, a tool that comes with Windows 11. Although I hadn’t used it before, I found it easy to navigate. To guide my discussion, I created a PowerPoint to outline my talking points. Before recording, I practiced by reviewing the slides and project code to ensure I covered all the key aspects I wanted to discuss.
 
 
 
