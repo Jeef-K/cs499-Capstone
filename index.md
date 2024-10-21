@@ -35,8 +35,8 @@ I also understand the importance of proper error handling. In professional envir
 
 
 
-# [Enhancement #1 Software Design and Engineering](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_software_design_enhancement)
-[Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_algorithms_data_structures_artifact)
+# Enhancement #1 Software Design and Engineering
+[Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_algorithms_data_structures_artifact) | [Enhanced](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_software_design_enhancement)
 
 The artifact I am including in my ePortfolio is an advising program created as my final project during the Data Structures and Algorithms course in Winter 2024. This project represents a significant milestone in my development as a software developer, particularly in object-oriented design and programming language translation. The program involves loading course data from a CSV file into a binary search tree, allowing users to search and print course information efficiently.
 
@@ -52,8 +52,8 @@ This artifact is a strong representation of my technical abilities and growth as
 
 
 
-# [Enhancement #2 Algorithms & Data Structures](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_algorithms_data_structures_enhanced)
-[Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_software_design_artifact)
+# Enhancement #2 Algorithms & Data Structures
+[Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_software_design_artifact) | [Enhanced](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_algorithms_data_structures_enhanced)
 
 The artifact I am presenting is a course advising program, which I developed during my Data Structures and Algorithms course in Winter 2024. Originally, the program was designed using a Binary Search Tree to store and manage courses. However, as part of my enhancement, I refactored the code to use a Java ArrayList in a sorted manner, demonstrating the flexibility of data structures and the importance of evaluating algorithmic efficiency based on specific needs. This change allowed me to manage the trade-offs involved in choosing between performance and simplicity, highlighting my ability to design computing solutions that are adaptable to various contexts.
 
@@ -70,8 +70,8 @@ This artifact allowed me to design a computing solution that meets the requireme
 
 
 
-# [Enhancement #3 Databases]
-[Enhancemented](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_databases_enhanced) | [Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_databases_artifact)
+# Enhancement #3 Databases
+[Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_databases_artifact) | [Enhanced](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_databases_enhanced)
 
 The artifact is a Java-based advising program designed to assist students with academic course planning. Initially, the program stored and retrieved course information using an in-memory ArrayList, allowing users to search for courses by their course ID and display all available courses. However, the program has since been enhanced to use an SQLite database for persistent storage of courses and their prerequisites. This update introduces new functionality, such as the ability to import courses from a CSV file and perform CRUD operations on the courses, making the program more scalable and maintainable.
 I selected this artifact for my ePortfolio because it demonstrates essential software development skills, particularly in database integration, collaboration, and real world application development. The transition from an ArrayList to an SQLite database highlights my ability to implement scalable, persistent solutions that can handle larger datasets and complex data relationships, such as multiple course prerequisites. Additionally, the inclusion of CSV import functionality and user-friendly database operations showcases my competence in handling external data sources and designing flexible, maintainable software that can be easily adapted to changing requirements.
