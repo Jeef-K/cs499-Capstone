@@ -20,6 +20,21 @@ Code reviews are a critical part of ensuring code quality and knowledge sharing 
 In a team setting, I’ve learned the importance of providing constructive feedback. When working collaboratively, I approach reviews with empathy, recognizing that code may reflect different perspectives and levels of understanding. By engaging in code reviews, I’ve contributed to shared learning, helping to foster an environment where team members feel comfortable sharing and improving on each other’s work.
 
 
+
+# In-Code Comments for Readability and Understanding
+One area where I’ve made significant improvements is in writing clear, contextual in-code comments. Whether I am working on a personal project or in a team, I strive to make my code easily readable and understandable by others. This includes providing meaningful comments that explain not just what the code is doing, but why specific decisions were made.
+
+For example, in my capstone project, I included comments to explain the logic behind complex algorithmic decisions and data structures, such as why I chose to use a binary search tree for managing course information in my advising program. These comments help future developers understand the thought process behind the code and make it easier for them to modify or maintain it.
+
+
+
+# Implementing Secure Coding Practices
+In my development projects, I’ve applied secure coding principles to mitigate vulnerabilities such as SQL injection, cross-site scripting, and improper input handling. While building my advising program, for instance, I ensured that the database interactions were secure by sanitizing inputs before executing queries in the SQLite database. This helps prevent SQL injection attacks, which could compromise sensitive academic data.
+
+I also understand the importance of proper error handling. In professional environments, error messages that are too detailed could expose sensitive system details, which attackers could exploit. By implementing generic error messages and logging errors securely in my projects, I help protect the system from potential threats while providing essential debugging information.
+
+
+
 # [Enhancement #1 Software Design and Engineering](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_software_design_enhancement)
 
 The artifact I am including in my ePortfolio is an advising program created as my final project during the Data Structures and Algorithms course in Winter 2024. This project represents a significant milestone in my development as a software developer, particularly in object-oriented design and programming language translation. The program involves loading course data from a CSV file into a binary search tree, allowing users to search and print course information efficiently.
