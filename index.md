@@ -70,8 +70,8 @@ This artifact allowed me to design a computing solution that meets the requireme
 
 
 
-# [Enhancement #3 Databases](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_databases_enhanced)
-[Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_databases_artifact)
+# [Enhancement #3 Databases]
+[Enhancemented](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_databases_enhanced) | [Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_databases_artifact)
 
 The artifact is a Java-based advising program designed to assist students with academic course planning. Initially, the program stored and retrieved course information using an in-memory ArrayList, allowing users to search for courses by their course ID and display all available courses. However, the program has since been enhanced to use an SQLite database for persistent storage of courses and their prerequisites. This update introduces new functionality, such as the ability to import courses from a CSV file and perform CRUD operations on the courses, making the program more scalable and maintainable.
 I selected this artifact for my ePortfolio because it demonstrates essential software development skills, particularly in database integration, collaboration, and real world application development. The transition from an ArrayList to an SQLite database highlights my ability to implement scalable, persistent solutions that can handle larger datasets and complex data relationships, such as multiple course prerequisites. Additionally, the inclusion of CSV import functionality and user-friendly database operations showcases my competence in handling external data sources and designing flexible, maintainable software that can be easily adapted to changing requirements.
