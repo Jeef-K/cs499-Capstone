@@ -31,7 +31,8 @@ This artifact is a strong representation of my technical abilities and growth as
 
 
 
-# Enhancement #2 Algorithms & Data Structures
+# [Enhancement #2 Algorithms & Data Structures](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_algorithms_data_structures_enhanced)
+
 
 The artifact I am presenting is a course advising program, which I developed during my Data Structures and Algorithms course in Winter 2024. Originally, the program was designed using a Binary Search Tree to store and manage courses. However, as part of my enhancement, I refactored the code to use a Java ArrayList in a sorted manner, demonstrating the flexibility of data structures and the importance of evaluating algorithmic efficiency based on specific needs. This change allowed me to manage the trade-offs involved in choosing between performance and simplicity, highlighting my ability to design computing solutions that are adaptable to various contexts.
 
@@ -48,7 +49,7 @@ This artifact allowed me to design a computing solution that meets the requireme
 
 
 
-# Enhancement #3 Databases
+# [Enhancement #3 Databases](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_databases_enhanced)
 
 The artifact is a Java-based advising program designed to assist students with academic course planning. Initially, the program stored and retrieved course information using an in-memory ArrayList, allowing users to search for courses by their course ID and display all available courses. However, the program has since been enhanced to use an SQLite database for persistent storage of courses and their prerequisites. This update introduces new functionality, such as the ability to import courses from a CSV file and perform CRUD operations on the courses, making the program more scalable and maintainable.
 I selected this artifact for my ePortfolio because it demonstrates essential software development skills, particularly in database integration, collaboration, and real world application development. The transition from an ArrayList to an SQLite database highlights my ability to implement scalable, persistent solutions that can handle larger datasets and complex data relationships, such as multiple course prerequisites. Additionally, the inclusion of CSV import functionality and user-friendly database operations showcases my competence in handling external data sources and designing flexible, maintainable software that can be easily adapted to changing requirements.
