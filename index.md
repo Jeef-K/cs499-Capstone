@@ -15,6 +15,9 @@ The second major area of growth was my deepened understanding of algorithm effic
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1019257381?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CS_499 _code_review"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+Code reviews are a critical part of ensuring code quality and knowledge sharing in any software project. Through my experiences in both individual and team environments, I’ve developed a solid understanding of how to approach code reviews. Individually, I focus on identifying areas of improvement for efficiency, adherence to coding standards, and potential bugs. I make sure that I don't just look at the functionality of the code but also its maintainability.
+
+In a team setting, I’ve learned the importance of providing constructive feedback. When working collaboratively, I approach reviews with empathy, recognizing that code may reflect different perspectives and levels of understanding. By engaging in code reviews, I’ve contributed to shared learning, helping to foster an environment where team members feel comfortable sharing and improving on each other’s work.
 
 
 # [Enhancement #1 Software Design and Engineering](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_software_design_enhancement)
