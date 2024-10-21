@@ -15,7 +15,7 @@ The second major area of growth was my deepened understanding of algorithm effic
 
 
 
-# Enhancement #1 Software Design and Engineering
+# [Enhancement #1 Software Design and Engineering](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_software_design_enhancement)
 
 The artifact I am including in my ePortfolio is an advising program created as my final project during the Data Structures and Algorithms course in Winter 2024. This project represents a significant milestone in my development as a software developer, particularly in object-oriented design and programming language translation. The program involves loading course data from a CSV file into a binary search tree, allowing users to search and print course information efficiently.
 
