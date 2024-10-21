@@ -36,7 +36,7 @@ I also understand the importance of proper error handling. In professional envir
 
 
 # Enhancement #1 Software Design and Engineering
-[Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_software_design_artifact) | [Enhanced](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_software_design_enhancement)
+[Artifact](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_artifacts/cs499_capstone_software_design_artifact) | [Enhanced](https://github.com/Jeef-K/cs499-Capstone/tree/main/cs499_capstone_software_design_enhanced)
 
 The artifact I am including in my ePortfolio is an advising program created as my final project during the Data Structures and Algorithms course in Winter 2024. This project represents a significant milestone in my development as a software developer, particularly in object-oriented design and programming language translation. The program involves loading course data from a CSV file into a binary search tree, allowing users to search and print course information efficiently.
 
